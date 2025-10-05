@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pkl
+user_data.json
+.streamlit/
