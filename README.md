@@ -57,3 +57,10 @@ Built as a portfolio project to demonstrate ML, NLP, and full-stack development 
 
 
 
+<img width="1169" height="585" alt="Screenshot 2025-10-05 230823" src="https://github.com/user-attachments/assets/cc5b98db-5549-4e77-b093-b03d7e140378" />
+<img width="1512" height="811" alt="Screenshot 2025-10-05 230816" src="https://github.com/user-attachments/assets/34440347-0b1b-4efa-ab68-8a9fe21a254d" />
+<img width="1257" height="861" alt="Screenshot 2025-10-05 230810" src="https://github.com/user-attachments/assets/229d47d4-5afc-4def-8e5c-3efdf17f9f2a" />
+<img width="1191" height="746" alt="Screenshot 2025-10-05 230800" src="https://github.com/user-attachments/assets/b3d9873b-dbdc-4df9-a414-cf6b2f288c92" />
+<img width="1363" height="727" alt="Screenshot 2025-10-05 230752" src="https://github.com/user-attachments/assets/da014ba2-7ce8-4d43-ad28-42564db317da" />
+<img width="1074" height="504" alt="Screenshot 2025-10-05 230655" src="https://github.com/user-attachments/assets/c725701a-aa25-4ed1-90ed-46068c36c1f7" />
+<img width="1578" height="562" alt="Screenshot 2025-10-05 230502" src="https://github.com/user-attachments/assets/3b8012e6-c117-467f-968e-3057d89d6b06" />
